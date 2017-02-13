@@ -28,7 +28,7 @@ public class LinkedStack<T>{
 		return result;
 	}	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub;
 		/*
 		 *生成泛型类LinkedStack<String> lss  T为String
 		 *	调用push(String)方法:为 lsdd  调用带参数的构造方法 产生Node<Strin>(String,Node)内部类     
@@ -60,3 +60,4 @@ public class LinkedStack<T>{
 	}
 
 }
+ub
